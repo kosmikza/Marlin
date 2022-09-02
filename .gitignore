@@ -169,3 +169,7 @@ __pycache__
 
 # IOLogger logs
 *_log.csv
+Marlin/Configuration Origional.h
+Marlin/Configuration_adv copy.h
+Marlin/Configuration_adv Origional.h
+Marlin/Configuration copy.h
